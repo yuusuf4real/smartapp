@@ -7,7 +7,7 @@
   </head>
   <body>
     <div class="container">
-      <h2 style="margin-top: 40px; text-align: center;>Create A Product</h2><br  />
+      <h2 style="margin-top: 40px; text-align: center;">Create A Product</h2><br  />
 
        @if ($errors->any())
       <div class="alert alert-danger">
