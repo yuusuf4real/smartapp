@@ -90,7 +90,7 @@
                     <a href="#">Our Service</a>
                     <a href="#">Blog</a>
                     <a href="#">How it works</a>
-                    <a href="#">Contacts</a>
+                    <a href="#">Contact</a>
                 </div>
             </div>
         </div>
